@@ -1,0 +1,14 @@
+@import "firsttask";
+@import "secondtask";
+@import "normalize.css";
+@import "./font/stylesheet.css";
+
+button {
+	cursor: pointer;
+}
+
+ul, li {
+  list-style-type: none; /* Убираем маркеры у списка */
+  padding: 0; /* Убираем внутренние отступы */
+  margin: 0; /* Убираем внешние отступы */
+}
